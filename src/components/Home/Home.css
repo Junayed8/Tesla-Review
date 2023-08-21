@@ -1,0 +1,23 @@
+.home-container{
+    display: grid;
+    grid-template-columns: 2fr 2fr;
+    grid-gap:5px;
+    margin: 20px;
+    background-color: aquamarine;
+}
+.description{
+    color: rgb(20, 77, 82);
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-weight: 800;
+}
+
+.tesla img{
+    height: 300px;
+    width: 450px;
+}
+button{
+    color: brown;
+    background-color: aqua;
+    border: 1px solid blueviolet;
+    border-radius: 4px;
+}

@@ -1,0 +1,24 @@
+.blogs{
+    margin: 15px;
+    background-color: rgb(50, 180, 180);
+    display: flex;
+  height: 400px;
+}
+.blog-1{
+    background-color: rgb(240, 174, 93);
+    margin: 5px;
+    padding: 5px;
+    border: 1px solid azure;
+}
+.blog-2{
+    background-color: bisque;
+    margin: 5px;
+    padding: 5px;
+    border: 1px solid azure;
+}
+.blog-3{
+    background-color: rgb(134, 207, 227);
+    margin: 5px;
+    padding: 5px;
+    border: 1px solid azure;
+}

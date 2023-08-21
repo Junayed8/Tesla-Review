@@ -1,0 +1,12 @@
+.homework{
+    display: grid;
+    grid-template-columns: repeat(2,1fr);
+    background-color: aqua;
+}
+.semantic{
+    background-color: antiquewhite;
+}
+
+.context{
+    background-color: bisque;
+}

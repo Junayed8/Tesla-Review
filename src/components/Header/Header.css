@@ -1,0 +1,10 @@
+h1{
+    color: brown;
+    font-size: larger;
+    font-style: italic;
+    font-weight: 700;
+}
+nav a{
+    text-decoration: none;
+    margin: 10px;
+}
